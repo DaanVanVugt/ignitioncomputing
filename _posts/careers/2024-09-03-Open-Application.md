@@ -9,7 +9,7 @@ description: Open Application
 
 ### Open Application
 
-We are continuosly looking for physics software developers, simulation software engineers, experts in high-performance and/or parallel computing, people with a background in nuclear fusion, engineering mathematics, computer science and physicists. Do you fit one of these descriptions? Do you want to help build software for the future of science? Whether you are looking for a full-time role, internship or traineeship, feel free to
+We are continuosly looking for physics software developers, simulation software engineers, experts in high-performance and/or parallel computing, people with a background in nuclear fusion, engineering mathematics, computer science and physics. Do you fit one of these descriptions? Do you want to help build software for the future of science? Whether you are looking for a full-time role, internship or traineeship, feel free to
 send us a message <careers@ignitioncomputing.com> with your ideas, CV and motivation letter.
 
 ### About Us
