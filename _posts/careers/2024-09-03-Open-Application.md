@@ -16,7 +16,7 @@ send us a message <careers@ignitioncomputing.com> with your ideas, CV and motiva
 
 Ignition Computing is a startup in Eindhoven based on the Keizersgracht. We specialize in high-performance computing and research software, with a focus on fusion energy. As a developer at Ignition Computing you will provide programming and consulting services for commercial and research support purposes. We mainly code in Python, C++, and Fortran. If you want to grow your skills as a developer, you're the kind of person we're after.
 
-Our culture is focussed on cooperation, growth and a healthy work-life balance. We are open to flexible work-arrangements such as (partial) work from home and Payed Time Off (PTO). At Ignition Computing we believe in an informal environment where everyone is equal. We expect our employees to contribute with new ideas and work in close cooperation with our team and our customers. We share our office, situated in the lively city centre of Eindhoven, with Afterservice. We have lunch and Friday drinks together.
+Our culture is focussed on cooperation, growth and a healthy work-life balance. We are open to flexible work-arrangements such as (partial) work from home. At Ignition Computing we believe in an informal environment where everyone is equal. We expect our employees to contribute with new ideas and work in close cooperation with our team and our customers. We share our office, situated in the lively city centre of Eindhoven, with Afterservice. We have lunch and Friday drinks together.
 
 #### Some of the current running projects we have:
 
