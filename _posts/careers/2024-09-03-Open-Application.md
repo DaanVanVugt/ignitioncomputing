@@ -12,7 +12,7 @@ description: Open Application
 We are continuosly looking for physics software developers, simulation software engineers, experts in high-performance and/or parallel computing, people with a background in nuclear fusion, engineering mathematics, computer science and physicists. Do you fit one of these descriptions? Do you want to help build software for the future of science? Whether you are looking for a full-time role, internship or traineeship, feel free to
 send us a message <careers@ignitioncomputing.com> with your ideas, CV and motivation letter.
 
-### About US
+### About Us
 
 Ignition Computing is a startup in Eindhoven based on the Keizersgracht. We specialize in high-performance computing and research software, with a focus on fusion energy. As a developer at Ignition Computing you will provide programming and consulting services for commercial and research support purposes. We mainly code in Python, C++, and Fortran. If you want to grow your skills as a developer, you're the kind of person we're after.
 
