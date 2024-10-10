@@ -1,8 +1,9 @@
 ---
 layout: featured
 title: Physics-based Machine Learning
+image: /assets/img/service/pexels-googledeepmind-17483874.jpg
 icon: /assets/img/icons/git-pull-request-outline.svg
-description: Our ML surrogate and reduced order models are proven in plasma physics and control.
+description: Our ML surrogate and reduced order models are proven in plasma physics and multiphysics.
 ---
 
 <div class="row">
@@ -11,7 +12,7 @@ description: Our ML surrogate and reduced order models are proven in plasma phys
             <h3>From machine-learned preconditioners to control-oriented models</h3>
             <p>
                 A good understanding of your problem is essential when applying machine learning tools.
-                We know this, because our team has developed cutting-edge tools, such as
+                Our team has developed cutting-edge tools for physics problems, such as
 
                 <ul>
                   <li>Data-driven preconditioners (PreconNet), applied to plasma simulations but applicable in a wider context</li>
