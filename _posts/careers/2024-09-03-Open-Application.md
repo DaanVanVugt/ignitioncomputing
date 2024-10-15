@@ -25,4 +25,4 @@ Our culture is focussed on cooperation, growth and a healthy work-life balance. 
 - Consulting for various Dutch tech companies such as [CelSian](https://www.celsian.nl/) and [Plasma Matters](https://plasimo.phys.tue.nl/index.php).
 - Consulting for an American fusion start-up (currently in stealth).
 
-To apply, send your job application, which includes CV and cover letter, to <careers@ignitioncomputing.com>
+To apply, send your job application, which includes CV and a salient coding sample (e.g., GitHub repository, code snippet, or project portfolio) , to <careers@ignitioncomputing.com>
