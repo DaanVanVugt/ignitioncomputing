@@ -22,7 +22,7 @@ Our culture is focussed on cooperation, growth and a healthy work-life balance. 
 
 - Preconnet, a tool to benchmark and accelerate physics simulations through optimizing solver configurations, initial guesses and preconditioning.
 - [ITER](https://iter.org), the world's biggest nuclear fusion project where we have multiple running projects such as working on the underlying data structures for experimental data ([IMASPy](https://pypi.org/project/imaspy/)) and developing simulation codes.
-- Consulting for various Dutch tech companies such as [Celsian](https://www.celsian.nl/) and [Plasma Matters](https://plasimo.phys.tue.nl/index.php).
+- Consulting for various Dutch tech companies such as [CelSian](https://www.celsian.nl/) and [Plasma Matters](https://plasimo.phys.tue.nl/index.php).
 - Consulting for an American fusion start-up (currently in stealth).
 
 To apply, send your job application, which includes CV and cover letter, to <careers@ignitioncomputing.com>
