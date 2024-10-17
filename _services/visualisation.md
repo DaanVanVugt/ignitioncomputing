@@ -2,7 +2,7 @@
 layout: featured
 title: Visualisation
 icon: /assets/img/icons/bar-chart-outline.svg
-image: /assets/img/service/pexels-thisisengineering-3912976-min.jpg
+image: /assets/img/service/toroidal_field.jpg
 description: Good visualisation is a super-power. It is essential for discovery and communication.
 ---
 
@@ -17,7 +17,7 @@ description: Good visualisation is a super-power. It is essential for discovery 
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/toroidal_field.jpg" alt="{{page.title}}">
+            <img src="{{site.baseurl}}/assets/img/service/pexels-thisisengineering-3912976-min.jpg" alt="{{page.title}}">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">

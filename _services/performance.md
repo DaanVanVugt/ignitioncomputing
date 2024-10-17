@@ -2,7 +2,7 @@
 layout: featured
 title: Software optimization
 icon: /assets/img/icons/stopwatch-outline.svg
-image: /assets/img/service/pexels-thisisengineering-3862132-min.jpg
+image: /assets/img/service/pexels-thisisengineering-3912976-min.jpg
 description: We have extensive optimalisation and parallelisation experience in HPC.
 ---
 
