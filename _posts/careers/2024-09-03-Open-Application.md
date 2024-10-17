@@ -9,7 +9,7 @@ description: Open Application
 
 ### Open Application
 
-We're always excited to connect with talented physics software developers, computer scientists, simulation engineers, and those with expertise in nuclear fusion, engineering mathematics, high-performance computing or physics. If you're passionate about shaping the future of science through innovative software, we'd love to hear from you.
+Are you passionate about complex problem-solving,  high-tech systems, and software engineering? We're always happy to connect with talented physics software developers, computer scientists, simulation engineers, and those with expertise in nuclear fusion, engineering mathematics, high-performance computing, or physics. If you're excited about shaping the future of science through innovative software, we'd love to hear from you.
 Whether you're interested in a full-time position, internship, or traineeship, feel free to send us your CV, a motivation letter, and your ideas to <careers@ignitioncomputing.com>.
 
 ### About Us
